@@ -38,4 +38,4 @@ python manage.py runserver
 
 | Table Of Content                               | Links                                        |
 | ---------------------------------------------- | -------------------------------------------  |
-| PR '1' > DjangoX                               | [DjangoX]()|
+| PR '1' > DjangoX                               | [DjangoX](https://github.com/YousefAbuJalboush/DjangoX/pull/1)|
